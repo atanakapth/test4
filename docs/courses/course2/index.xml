@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics Expression analysis | Multiomics Lab</title>
+    <link>/courses/course2/</link>
+      <atom:link href="/courses/course2/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bioinformatics Expression analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Bioinformatics Expression analysis</title>
+      <link>/courses/course2/</link>
+    </image>
+    
+    <item>
+      <title>Rmark test3</title>
+      <link>/courses/course2/rmark-test3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/courses/course2/rmark-test3/</guid>
+      <description>
+
+
+&lt;p&gt;This is an &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;R Markdown&lt;/a&gt; Notebook. When you execute code within the notebook, the results appear beneath the code.&lt;/p&gt;
+&lt;p&gt;Try executing this chunk by clicking the &lt;em&gt;Run&lt;/em&gt; button within the chunk or by placing your cursor inside it and pressing &lt;em&gt;Ctrl+Shift+Enter&lt;/em&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;plot(cars)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;../../courses/course2/Rmark%20test3_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Add a new chunk by clicking the &lt;em&gt;Insert Chunk&lt;/em&gt; button on the toolbar or by pressing &lt;em&gt;Ctrl+Alt+I&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the &lt;em&gt;Preview&lt;/em&gt; button or press &lt;em&gt;Ctrl+Shift+K&lt;/em&gt; to preview the HTML file).&lt;/p&gt;
+&lt;p&gt;The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike &lt;em&gt;Knit&lt;/em&gt;, &lt;em&gt;Preview&lt;/em&gt; does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

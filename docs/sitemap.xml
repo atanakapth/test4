@@ -6,7 +6,13 @@
   <url>
     <loc>/courses/course/</loc><lastmod>2022-01-03T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>/courses/course2/rmark-test3/</loc></url>
+  <url>
     <loc>/courses/tutorial/</loc><lastmod>2022-01-03T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>/courses/3tutorial/</loc><lastmod>2022-01-03T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>/courses/course2/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/courses/course/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -16,9 +22,9 @@
   <url>
     <loc>/courses/course/rmk-test2/</loc></url>
   <url>
-    <loc>/</loc><lastmod>2022-01-03T00:00:00+00:00</lastmod></url>
+    <loc>/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/courses/</loc><lastmod>2022-01-03T00:00:00+00:00</lastmod></url>
+    <loc>/courses/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>

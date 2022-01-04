@@ -68,6 +68,24 @@
     </item>
     
     <item>
+      <title>tutorial2 test1 Rnotebook</title>
+      <link>/courses/tutorial2/tutorial2-test1-rnotebook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/courses/tutorial2/tutorial2-test1-rnotebook/</guid>
+      <description>
+
+
+&lt;p&gt;This is an &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;R Markdown&lt;/a&gt; Notebook. When you execute code within the notebook, the results appear beneath the code.&lt;/p&gt;
+&lt;p&gt;Try executing this chunk by clicking the &lt;em&gt;Run&lt;/em&gt; button within the chunk or by placing your cursor inside it and pressing &lt;em&gt;Ctrl+Shift+Enter&lt;/em&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;plot(cars)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./courses/tutorial2/tutorial2%20test1%20Rnotebook_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Add a new chunk by clicking the &lt;em&gt;Insert Chunk&lt;/em&gt; button on the toolbar or by pressing &lt;em&gt;Ctrl+Alt+I&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the &lt;em&gt;Preview&lt;/em&gt; button or press &lt;em&gt;Ctrl+Shift+K&lt;/em&gt; to preview the HTML file).&lt;/p&gt;
+&lt;p&gt;The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike &lt;em&gt;Knit&lt;/em&gt;, &lt;em&gt;Preview&lt;/em&gt; does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Visualization</title>
       <link>/courses/course/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -290,7 +308,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-412875639&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-358194627&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -300,7 +318,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-412875639&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-358194627&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
